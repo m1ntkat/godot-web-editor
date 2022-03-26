@@ -1,0 +1,1 @@
+godot.tools.wasm filter=lfs diff=lfs merge=lfs -text
